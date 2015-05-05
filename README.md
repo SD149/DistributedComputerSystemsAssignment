@@ -14,3 +14,9 @@ The objective was as follows:
 
 Java RMI was used to create the distributed system, and the data item types that could be subscribed to were integers
 in this example. 
+
+Server is located in SubscriptionServer
+Publisher client is located in PublisherClient
+Subscriber client is located in SubscriberClient
+
+The server must be ran first, then any number of clients can be run successfully. 
